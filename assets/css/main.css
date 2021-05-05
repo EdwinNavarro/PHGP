@@ -32,6 +32,10 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+selfie-size {
+	width: 25%
+	height: 25%
+}
 
 ol, ul {
 	list-style: none;
